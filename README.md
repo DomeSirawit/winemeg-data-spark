@@ -8,3 +8,13 @@ https://blog.datath.com/cheatsheet-pyspark/
 
 
 ![images](https://user-images.githubusercontent.com/98679146/205330233-5c71a6e4-5c40-456f-ae74-082db856c298.jpg)
+
+
+![image](https://user-images.githubusercontent.com/98679146/205454219-a8b33d1b-c083-4c3f-a4e7-70b85993c57b.png)
+
+
+
+![image](https://user-images.githubusercontent.com/98679146/205454290-de98cd60-caa4-4e97-8030-eae36abd0ec8.png)
+
+
+![image](https://user-images.githubusercontent.com/98679146/205454313-9dbb8981-bc90-4a11-b1bc-b39423fe843b.png)
