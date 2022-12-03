@@ -1,4 +1,6 @@
 # winemeg-data-spark
+using pyspark to process data from dirty to clean
+
 Cheatsheet วิธีใช้ และเทคนิคใน Pyspark ฉบับสมบูรณ์
 
 check this out
